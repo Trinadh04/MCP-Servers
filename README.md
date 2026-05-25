@@ -341,3 +341,15 @@ Many modern AI frameworks are adopting MCP-like architectures.
 MCP servers help AI agents interact with external systems in a structured and scalable way. They are becoming an important part of modern Agentic AI and autonomous AI applications.
 
 Learning MCP servers together with LangChain, Playwright, APIs, and RAG can help build powerful real-world AI systems.
+
+
+Some important links 
+1-https://github.com/mcptutorial/mcp-use
+2-https://github.com/microsoft/playwright-mcp,
+3-https://github.com/openbnb-org/mcp-server-airbnb,
+4-https://github.com/zhsama/duckduckgo-mcp-server
+
+
+
+
+
